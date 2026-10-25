@@ -1,0 +1,22 @@
+[
+  {
+    "document": "p01_bluehen_quote.html",
+    "time": "2026-10-25T20:34:07.377134+00:00",
+    "model": "gpt-6-luna",
+    "input_tokens": 22016,
+    "cached_tokens": 10808,
+    "output_tokens": 200,
+    "total_tokens": 22216,
+    "cost_usd": 0.00132888
+  },
+  {
+    "document": "p08_chapelst_email.eml",
+    "time": "2026-10-25T20:34:20.419251+00:00",
+    "model": "gpt-6-luna",
+    "input_tokens": 21978,
+    "cached_tokens": 21589,
+    "output_tokens": 190,
+    "total_tokens": 22168,
+    "cost_usd": 0.00034979
+  }
+]
